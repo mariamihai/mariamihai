@@ -18,3 +18,5 @@
 ## :trophy:
 
 <img align="center" src="https://github-profile-trophy.vercel.app/?username=mariamihai&theme=darkhub" />
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=mariamihai)](https://github.com/mariamihai)
