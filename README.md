@@ -14,7 +14,7 @@
 ## :seedling:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariamihai&repo=terraform-associate-certification-course-freecodecamp&show_owner=true&theme=radical&border_radius=10)](https://github.com/mariamihai/terraform-associate-certification-course-freecodecamp)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariamihai&repo=kubernetes-tutorial-nana&show_owner=true&theme=radical&border_radius=10)](https://github.com/mariamihai/kubernetes-tutorial-nana)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariamihai&repo=kubernetes-related&show_owner=true&theme=radical&border_radius=10)](https://github.com/mariamihai/kubernetes-related)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariamihai&repo=programming-kotlin&show_owner=true&theme=radical&border_radius=10)](https://github.com/mariamihai/programming-kotlin)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariamihai&repo=udemy-react-overview&show_owner=true&theme=radical&border_radius=10)](https://github.com/mariamihai/udemy-react-overview)
 
