@@ -11,6 +11,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariamihai&layout=compact&theme=radical&border_radius=20" />
 </a>
 
+## :newspaper:
+[My Gists](https://gist.github.com/mariamihai)
+
 ## :seedling:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mariamihai&repo=terraform-associate-certification-course-freecodecamp&show_owner=true&theme=radical&border_radius=10)](https://github.com/mariamihai/terraform-associate-certification-course-freecodecamp)
